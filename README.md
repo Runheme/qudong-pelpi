@@ -1,5 +1,4 @@
 # pelpi
 
-An AST parser to support VIA custom UI definitions
+支持驱动自定义UI定义的AST分析器
 
-ᐯ/ᐱ
