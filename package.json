@@ -3,9 +3,9 @@
   "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/the-via/pelpi.git"
+    "url": "git+ssh://git@github.com/Runheme/qudong-pelpi.git"
   },
-  "author": "Olivia <ofbriggs@gmail.com>",
+  "author": "Olivia <ofbrigg@gmail.com>", //s
   "license": "GPL-3.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,9 +32,9 @@
   },
   "description": "An AST parser to support VIA custom UI definitions",
   "bugs": {
-    "url": "https://github.com/the-via/pelpi/issues"
+    "url": "https://github.com/Runheme/qudong-pelpi/issues"
   },
-  "homepage": "https://github.com/the-via/pelpi#readme",
+  "homepage": "https://github.com/Runheme/qudong-pelpi#readme",
   "keywords": [
     "via",
     "qmk",
