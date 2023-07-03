@@ -1,11 +1,11 @@
 {
   "name": "@the-via/pelpi",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Runheme/qudong-pelpi.git"
+    "url": "git+ssh://git@github.com/the-via/pelpi.git"
   },
-  "author": "Olivia <ofbrigg@gmail.com>", //s
+  "author": "Olivia <ofbriggs@gmail.com>",
   "license": "GPL-3.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,16 +25,16 @@
     "@typescript-eslint/eslint-plugin": "^2.27.0",
     "@typescript-eslint/parser": "^2.27.0",
     "eslint": "^6.8.0",
-    "prettier": "^2.7.1",
+    "prettier": "^2.0.4",
     "ts-node": "^8.8.2",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
   },
   "description": "An AST parser to support VIA custom UI definitions",
   "bugs": {
-    "url": "https://github.com/Runheme/qudong-pelpi/issues"
+    "url": "https://github.com/the-via/pelpi/issues"
   },
-  "homepage": "https://github.com/Runheme/qudong-pelpi#readme",
+  "homepage": "https://github.com/the-via/pelpi#readme",
   "keywords": [
     "via",
     "qmk",
